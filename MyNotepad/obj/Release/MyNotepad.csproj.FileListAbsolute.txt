@@ -1,0 +1,11 @@
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\bin\Release\MyNotepad.exe.config
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\bin\Release\MyNotepad.exe
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\bin\Release\MyNotepad.pdb
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.csproj.AssemblyReference.cache
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.Form1.resources
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.Properties.Resources.resources
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.csproj.GenerateResource.cache
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.csproj.CoreCompileInputs.cache
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.exe
+C:\Users\iamroot\Desktop\code\C#Projects\MyNotepad\obj\Release\MyNotepad.pdb
